@@ -1,0 +1,26 @@
+Microgrids and Smartgrids in ASEAN
+By  Aloysius Damar Pranadi
+
+Monday, 1 Aug 2016
+Today, electricity is essential in daily life. Electricity is generated from various sources of energy and then distributed through the grids to consumers. For decades, most countries rely on large grids to fulfil electricity needs. However, with the rapid development of technology, there is a significant contribution from smaller grids all over the world in recent years, especially to fulfil the demands in remote areas.
+
+Based on geography, ASEAN Member States (AMS) have mountainous areas, forests, and islands (remote islands). This has brought the opportunity for AMS to develop microgrids or smart grids as part of the effort to increase the electrification ratio in remote area/islands. However, microgrids and smart grids are not only for the remote area as a stand-alone system (off-grid), but also could be integrated with the nearest national grid (or grid-connected). Challenges and enabler for smart grids can be seen in Table 1 [1].
+
+Table 1. Challenges and Enablers for Smart Grid Development
+
+
+
+Nowadays, most of AMS are continuously developing their microgrids and even some of them such as Indonesia, Malaysia, the Philippines, Singapore, Thailand and Vietnam would like to develop smart grids as part of their national power development plans. Indonesia has some microgrids in Nusa Penida, Baron Techno Park, and Morotai Island[2], and smart grids such as advanced metering infrastructures in Solo and Pondok Indah Jakarta, Smart Karimun Island, Smart Community Industrial Park Karawang and Sumba Island[3]. Malaysia has microgrids in Banggi Island, Tanjung Labian, Bario, Kema and Tanjung Batu Laut. Singapore has two microgrids in Pulau Ubin and Jurong Island[2].  The Philippines have planned the solar microgrid with a battery storage system in Talim Island[4]. The Government of Thailand has cooperated with Japan to build some microgrids in Energy Park (Northern Thailand), Rice Manufacturing Plant and Three National Parks (Phu Kradung, Huay Ka Kang and Tarutao Island). The Government of Thailand built their own microgrids in Chataburi (Kohjig Project), Chiang Mai (Doi Intanon Royal Project and Wat Chan Royal Project), Sukothai (Kirimas Project), Cha-Choeng sau (Tha Takiab Project), Uthai Thani (Huai Kha Khaeng) and Chonburi (Lan Island)[5]. Myanmar with Japan International Cooperation System (JICS) would like to build the solar/diesel/battery microgrids for 11 (eleven) villages or 1000 households in the following years[6].
+
+The ASEAN Centre for Energy in cooperation with Korea Energy Economic Institute is conducting a joint study on the assessment of microgrid development in several AMS. It is expected that this study will be a reference to further develop microgrids as part of the regional efforts to fulfil the electricity needs.
+
+References
+Coordinating Ministry for Economic Affairs. (2013, April 2). Smart Grid Development Policy in Indonesia. Presentation. Hanoi, Vietnam.
+Microgrid Project. (n.d.). Retrieved from Microgrid Project Web site: http://microgridprojects.com/
+Tim Smartgrid PT PLN (Persero). (2016, January). INISIATIF PLN DALAM PENGEMBANGAN DAN IMPLEMENTASI SMARTGRID. Presentation. Jakarta, Indonesia.
+Colthorpe, A. (2015, October 9). PV-Tech. Retrieved from PV Tech website: http://www.pv-tech.org/news/myanmar_villages_to_get_japanese_development_agency_funded_solar_microgrids http://business.inquirer.net/171930/meralco-pilot-testing-solar-microgrid-system
+Ngamroo, I. (2010, July 21-22). Status of Microgrid R&D in Thailand. Presentation. Vancouver, Canada.
+Inquirer. (2014, June 2). Retrieved from Inquirer Website: http://business.inquirer.net/171930/meralco-pilot-testing-solar-microgrid-system
+The views, opinions, and information expressed in this article were compiled from sources believed to be reliable for information and sharing purposes only, and are solely those of the writer/s. They do not necessarily reflect the views and opinions of the ASEAN Centre for Energy (ACE) and/or the ASEAN Member States. Any use of this article’s content should be by ACE’s permission.
+Tags
+ASEAN Power Grid
